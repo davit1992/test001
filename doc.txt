@@ -1,0 +1,28 @@
+
+
+
+Imea Systems is an IT company specializing in software development. 
+With a team of 30 employees, the company boasts a talented workforce comprising 12 frontend developers, 15 backend developers, and 3 QA. 
+Located at Slavik Chiloyan 23.
+Imea Systems actively engages in three projects: Geeq, SimulacrumAi, and StarNews. 
+These projects reflect the company's commitment to innovation and technology across various domains.
+
+Install Dot1x for Windows 10
+1. From the desktop, right-click on the wireless icon on the bottom right corner of your desktop.
+Select Open Network and Sharing Center.
+2. In the Network and Sharing Center, select Setup a new connection or network.
+In description, "Set up a broadband, dial-up, or VPN connection, or set up a router or access point".
+3. Select Manually connect to a new network. Connect to hidden network or create a new wireless
+profile.
+4. Enter the information for new connection (SSID):
+Manually connect to a wireless network, select the Network name, Security Type (WPA2-Enterprise from dropdown list), Encryption
+Type (AES), Security Key(empty), Hide characters(unchecked), Start this connection automatically(checked), Connect even if the
+network is not broadcasting(unchecked).
+5. Click the Change connection settings box.
+6. Click on the Security Tab on the top of the window.
+7. Select network authentication method. In our example is it EAP (PEAP). Remember my credentials
+should be checked.
+8. Under Advanced settings (at the bottom) you could select Authentication mode:
+Check the Specify authentication mode from 802.1X settings Tab.
+9. After connection you will be prompted for Username and password that will be used for Dot1x
+authentication

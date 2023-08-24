@@ -1,0 +1,6 @@
+altair==4.1.0
+openai==0.27.6
+langchain
+python-dotenv
+chromadb
+tiktoken
